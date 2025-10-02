@@ -39,5 +39,4 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-CODE_OF_CONDUCT.md
-LICENSE.md
+
